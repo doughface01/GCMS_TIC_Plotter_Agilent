@@ -1,10 +1,10 @@
 README: GCMS Plotter
 
-Hi, these instructions are wirtten for someone who is quite new to this world, apologise if
+Hi, these instructions are wirtten for someone who is quite new to this world, apologies if
 I am teaching you to suck eggs :) 
 
 Go to my Github and download the .zip file containing the code and accompanying folders. Save it somewhere
-on your computer (it shouldn't matter where *ominous foreshadowing*).
+on your computer (it shouldn't matter where ***ominous foreshadowing***).
 
 This code is best run (by that I mean tested) through Anaconda and Spyder. 
 	- Download Anaconda (selecting your operating system):
@@ -36,7 +36,7 @@ Type (or copy/paste) the following commands into the terminal (one at a time):
 
 	conda install -c conda-forge glob2
 
-After typing each command into the terminal you will normally be presented with an option to install
+After typing each command into the terminal and hitting "enter" you will normally be presented with an option to install
 the desired package that requires you to enter "yes" or "no" (y/n) in the terminal. Type "y" at this point
 to continue to install. Once finished move on to the next package. The code runs a quick package check before
 running the actual graph plotting code, so it should tell you if you haven't done this correctly and highlight 
